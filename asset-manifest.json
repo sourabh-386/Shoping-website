@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/shoping-website/static/css/main.9f5589c0.css",
+    "main.js": "/shoping-website/static/js/main.2b225b39.js",
+    "static/media/2.png": "/shoping-website/static/media/2.5f080d9e47bf46ca3fce.png",
+    "static/media/p18.png": "/shoping-website/static/media/p18.f300cd7f3e2af4f7cea4.png",
+    "static/media/p16.png": "/shoping-website/static/media/p16.4072abaaca05c2d473bb.png",
+    "static/media/p19.png": "/shoping-website/static/media/p19.5111b3f0e27e66750969.png",
+    "static/media/p11.png": "/shoping-website/static/media/p11.b490086482a806ddbf72.png",
+    "static/media/p20.png": "/shoping-website/static/media/p20.80fcb8d85bcd7eb960cc.png",
+    "static/media/p13.png": "/shoping-website/static/media/p13.54861f1c475f4e56d6bc.png",
+    "static/media/p10.png": "/shoping-website/static/media/p10.dd1a84da0a944580757a.png",
+    "static/media/3.png": "/shoping-website/static/media/3.c7785c796d0b2bf5aa2b.png",
+    "static/media/p14.png": "/shoping-website/static/media/p14.94037604a22ca5b007b3.png",
+    "static/media/p15.png": "/shoping-website/static/media/p15.66ca2116e667a9c63825.png",
+    "static/media/p12.png": "/shoping-website/static/media/p12.4c26e0993973db3b9017.png",
+    "static/media/4.png": "/shoping-website/static/media/4.dce93278370eb9a94e56.png",
+    "static/media/p17.png": "/shoping-website/static/media/p17.60a4cef6e9d5cdd03be4.png",
+    "static/media/p9.png": "/shoping-website/static/media/p9.fbdb6ed5549dec2cafc1.png",
+    "static/media/dog2.png": "/shoping-website/static/media/dog2.e4d6e68290626533d1e5.png",
+    "static/media/1.png": "/shoping-website/static/media/1.87f6c2f48f7e15ed845b.png",
+    "static/media/8.webp": "/shoping-website/static/media/8.8bd0ab9ccc0cf9fb335d.webp",
+    "static/media/5.png": "/shoping-website/static/media/5.a13c8fc38072a14d6633.png",
+    "static/media/6.webp": "/shoping-website/static/media/6.5828a0fe3c77468b8726.webp",
+    "static/media/7.webp": "/shoping-website/static/media/7.59c9a0eba54726d9fc95.webp",
+    "index.html": "/shoping-website/index.html",
+    "main.9f5589c0.css.map": "/shoping-website/static/css/main.9f5589c0.css.map",
+    "main.2b225b39.js.map": "/shoping-website/static/js/main.2b225b39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f5589c0.css",
+    "static/js/main.2b225b39.js"
+  ]
+}
